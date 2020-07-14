@@ -1,0 +1,28 @@
+/* Background Image */
+
+body {
+    background-image: url("img/background.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* Nav Bar / Button Styling */
+
+li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/*a:hover {
+    background-color: darkred;
+} */
+
+
